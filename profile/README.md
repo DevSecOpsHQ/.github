@@ -11,10 +11,10 @@ Welcome to my personal GitHub space. This is where I store my projects, experime
 ## Projects
 
 Here are some of the projects I'm working on:
-
+<!--
 1. [Project 1](link-to-project): A fun project description.
 2. [Project 2](link-to-project): Another cool project I'm tinkering with.
-3. [Project 3](link-to-project): Yet another interesting one!
+3. [Project 3](link-to-project): Yet another interesting one! --> 
 
 ## Getting Started
 
