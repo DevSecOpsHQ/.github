@@ -4,7 +4,7 @@ Welcome to my personal GitHub space. This is where I store my projects, experime
 
 ## About Me
 
-- Hi, I'm [Ilyas Rufai](https://www.linkedin.com/in/rufilboy/).
+- Hi, I'm [Ilyas Rufai](https://www.linkedin.com/in/rufilboss/).
 - I love DevSecOpsing😀, experimenting, and learning new things.
 - Feel free to explore my projects and repositories.
 
@@ -23,7 +23,7 @@ Here are some of the projects I'm working on:
 
 ## Contact Me
 
-- Twitter: [@rufilboy](https://twitter.com/rufilboy)
+- Twitter: [@rufilboss](https://twitter.com/rufilboss)
 
 ## License
 
